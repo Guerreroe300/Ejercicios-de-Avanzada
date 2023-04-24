@@ -1,6 +1,6 @@
 # Ejercicios-de-Avanzada
 
-La estructura del repositorio es:\n\n
+La estructura del repositorio es:
 
 Ejercicios:\n
   Periodo1:
