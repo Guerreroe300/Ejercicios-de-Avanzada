@@ -1,0 +1,44 @@
+Evidencias del primer parcial
+
+•    Por cada programa deberá de incluir en forma de comentario una breve descripción de lo que realiza el programa además de su id y nombre completo dentro de los comentarios.
+•    El nombre de los archivos será el numero con letra seguido de un guion bajo seguido de su id, si utiliza alguna biblioteca propia el formato será el nombre de la biblioteca seguido de un guion bajo seguido de su id.
+•    Ejemplo uno_0112323.cpp aritmética_0112323.h
+•    Si desea agregar algún programa visto en clase que no está en la lista agrégalo con el numero consecutivo de acuerdo con la lista.
+•    Debe de subir un archivo .zip con todos los archivos el cual tendrá como nombre su id_nombrecompleto.zip
+1.    Estructura general de un programa en c++
+2.    Ejemplo de tipos de datos
+3.    Ejemplo de definición de identificadores
+4.    Ejemplo de entrada y salida estándar
+5.    Ejemplo de operadores aritméticos
+6.    Ejemplo de operadores relacionales
+7.    Ejemplo de operadores a nivel de bit
+8.    Ejemplo estructura condicional if-else
+9.    Ejemplo estructuras de control for, while, do-while
+10.    Programa que valida si un número es primo
+11.    Programa que valida si un número es par o impar
+12.    Programa que calcula el promedio de los números introducidos en un array de diez números
+13.    Programa que imprime el número menor de diez números introducidos por el usuario
+14.    Programa que imprime el número mayor de diez números introducidos por el usuario
+15.    Programa que cuenta la frecuencia de los caracteres en una cadena de máximo cien caracteres introducida por el usuario
+16.    Ejemplo de una función, parámetros y valores de retorno
+17.    Ejemplo de un método y sus parámetros
+18.    Creación de una biblioteca con una función llamada indexof que retorna el índice donde se encuentra un carácter en una cadena de máximo cien caracteres
+19.    Programa que valida si dos cadenas tienen el mismo número de elementos
+20.    Crear biblioteca que contenga una función llamada equalslenght la cual validara si dos cadenas tienen el mismo número de elementos, retorna true o false según sea el caso
+21.    Programa que cuenta la frecuencia de un carácter en una cadena de cien caracteres
+Añadir envío
+Añadir envío
+
+Envíos de archivo
+Envíos de archivo
+Tamaño máximo para archivos: 100 MB, número máximo de archivos: 1
+Archivos
+Arrastre y suelte los archivos aquí para subirlos
+
+Tipos de archivos aceptados:
+
+    Archivos de archivo .7z .bdoc .cdoc .ddoc .gtar .gz .gzip .hqx .rar .sit .tar .tgz .zip
+
+Previous activity
+Ir a...
+Next activity 
