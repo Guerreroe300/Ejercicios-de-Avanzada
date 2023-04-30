@@ -1,5 +1,5 @@
 /*
-Esta es la estructura general de un programa en c++
+Aqui se enseñan diferentes tipos de de datos y el dato que se le puede meter y su tamaño en bytes
 0253640 Alejandro Guerrero Alvarez
 */
 #include <iostream>
