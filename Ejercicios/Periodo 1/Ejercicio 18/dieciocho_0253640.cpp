@@ -1,3 +1,7 @@
+/*
+Checa donde de un array de caracteres esta uno dado
+0253640 Alejandro Guerrero Alvarez
+*/
 #include <iostream>
 #include"index_0253640.h"
 
