@@ -1,0 +1,24 @@
+Evidencias segundo parcial
+
+•    Debe de crear un programa que mediante un menú (Como se explicó en clase) el usuario seleccione el número de programa a ejecutar y este a su vez deberá llamar a la función que corresponda a dicho programa en su respectiva biblioteca.
+•    Por cada biblioteca deberá de incluir en forma de comentario una breve descripción de lo que realiza además de su id y nombre completo dentro de los comentarios.
+•    El nombre del archivo donde se encuentra la función principal deberá ser nombrado con su id_nombreCompleto.cpp
+•    El nombre de las bibliotecas debe de iniciar con el número de programa que le corresponde seguido de un guion bajo seguido de su id.
+•    Ejemplo uno_0112323.h
+•    Si desea agregar algún programa visto en clase que no está en la lista agrégalo con el numero consecutivo de acuerdo con la lista.
+•    Debe de subir un archivo .zip con todos los archivos el cual tendrá como nombre su id_nombrecompleto.zip
+
+1.    Ejercicio de aritmética creando funciones en una biblioteca
+2.    Ejercicio introducción a estructuras
+3.    Introducción a Punteros
+4.    Ejercicio con punteros usándolos para crear memoria dinámica
+5.    Ejercicio de estructura Coche
+6.    Ejercicio de estructuras y bibliotecas la del Zoológico
+7.    Ejercicio de estructura Escuela, Alumno, Materia y Profesor
+8.    Ejercicio de estructura Persona y función swap usando punteros
+9.    Ejemplo paso por referencia
+10.    Ejemplo paso por puntero
+11.    Ejercicio referencia con estructuras
+12.    Ejercicio de copia de datos de un puntero
+13.    Introducción a uniones
+14.    Ejemplo de uniones con diferentes tipos de datos
